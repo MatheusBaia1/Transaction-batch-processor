@@ -18,7 +18,7 @@ target/
 out/
 
 # Arquivos de saída gerados pelo sistema
-relatorio_transacoes.txt
+.relatorio_transacoes.txt
 
 ### Eclipse ###
 .apt_generated
