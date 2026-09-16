@@ -12,6 +12,9 @@ target/
 *.iml
 *.ipr
 
+# Arquivos de saída gerados pelo sistema
+relatorio_transacoes.txt
+
 ### Eclipse ###
 .apt_generated
 .classpath
