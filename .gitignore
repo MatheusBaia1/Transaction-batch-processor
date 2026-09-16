@@ -12,6 +12,11 @@ target/
 *.iml
 *.ipr
 
+# Pastas e arquivos específicos do IntelliJ
+.idea/
+*.xml
+out/
+
 # Arquivos de saída gerados pelo sistema
 relatorio_transacoes.txt
 
