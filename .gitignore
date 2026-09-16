@@ -17,8 +17,9 @@ target/
 *.xml
 out/
 
-# Arquivos de saída gerados pelo sistema
+# Arquivos de dados/saída gerados pelo sistema (não fazem parte do código)
 relatorio_transacoes.txt
+transacoes.txt
 
 ### Eclipse ###
 .apt_generated
